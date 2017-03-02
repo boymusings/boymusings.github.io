@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2017-03-02
+img: croissantOne.png
+alt: image-alt
+project-date: March 2017
+client: Start Bootstrap
+category: Croissant
+description: Module One - Drawing a Croissant
+
+---
